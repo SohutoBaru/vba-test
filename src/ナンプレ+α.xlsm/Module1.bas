@@ -1,4 +1,4 @@
-'baruブランチで変更
+'testブランチで変更
 Attribute VB_Name = "Module1"
 Option Explicit
 Private tryCnt As Long
