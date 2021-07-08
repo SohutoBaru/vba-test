@@ -1,4 +1,4 @@
-'testブランチで変更
+'baruブランチで変更
 Attribute VB_Name = "Module1"
 Option Explicit
 Private tryCnt As Long
@@ -29,9 +29,9 @@ Sub main()
     Debug.Print Timer
     
     If getBlank(SuAry(), i1, i2) = False Then
-        MsgBox "�񓚐����B"
+        MsgBox 
     Else
-        MsgBox "�񓚕s�\�B"
+        MsgBox 
     End If
 End Sub
 Function trySu(ByRef SuAry() As Integer) As Boolean
